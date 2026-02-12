@@ -21,8 +21,6 @@ Notebooks and materials for working with large language models (LLMs), RAG, atte
 
 ![How to ask questions to LLMs](ask%20questions%20to%20LLMs.jpg)
 
-![What to ask LLMs](ask%20questions%20to%20LLMs%20what.jpg)
-
 ### Attention & Transformers
 
 ![Attention is all you need](attention.jpg)
