@@ -1,0 +1,52 @@
+Papers:
+
+1. Yann Lecun's seminal paper on Conv NNs:
+https://github.com/tpn/pdfs/blob/master/Gradient-Based%20Learning%20Applied%20to%20Document%20Recognition%20(Lecun98).pdf
+
+Introduces filter embedded into NNs, symbolic derivative, etc.
+
+2. How Deep NNs were pretrained in early days, transfer learning and LLM fine-tuning
+https://github.com/enoten/huggingface_llms_apps/blob/main/Pre-training%20and%20Fine-tuning.ipynb
+
+3. Seminal paper by Poggio and Riesenhuber, which discribes the multi-layer (deep) neural networks,
+which mimics human brain from Primary Visual Cortex (V1) up to Inferior Temporal Cortex (IT).
+https://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/riesenhuber-poggio-hierarchical-nn1999.pdf
+
+4. Paper by Larochelle, Bengio et. al explaining pretaining deep NNs using RBMs.
+This is how the training of deep NNs was done in early days.
+https://www.jmlr.org/papers/volume10/larochelle09a/larochelle09a.pdf
+
+5. Similar to previous paper by Hinton et al. explaining how to train deep believe networks, 
+how to train RBMs using Gibbs sampling, etc.
+https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf
+
+6. Attention is all you need - a seminal paper about transformer networks
+https://arxiv.org/pdf/1706.03762
+
+7. Seminal paper introduce Back-Propagation Algorithm by Rumelhart, Hinton and Williams.
+https://gwern.net/doc/ai/nn/1986-rumelhart-2.pdf
+
+8. Paper about AlexNet, the first CNN to outperform other methods on ImageNet Dataset
+https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
+
+9. Seminal paper to introduce Skip-connection in NNs
+this helps to stabilize deep NNs and make them very-very deep
+https://arxiv.org/pdf/1512.03385
+
+10. Paper about Growing neural networks and Widrow-Hoff learning rule (precursor of Back-Propagation)
+file:///C:/Users/18623/Downloads/A_Resource-Allocating_Network_for_Function_Interpo.pdf
+
+11. CIFAR dataset intro page
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+12. Early days' matlab codes to implement Deep Believe Network (DBN) by Ruslan Shalahutdinov - J. Hinton's Lab alumni
+https://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html
+
+13. Sergey's YouTube Channel's AI Courses
+https://www.youtube.com/@phiai1618/courses
+
+14. Evolution of GenAI: from VAE to Transformers and AI Agents
+https://github.com/enoten/huggingface_llms_apps/blob/main/GenAI%20From%20Basics%20to%20Advanced%20Applications-1.pdf
+
+15. Robustness of Neural Networks to Noise and Adviserial Attacks
+https://github.com/enoten/RobustCNN/blob/main/RobustnessofNeuralNetworks-1.pdf
